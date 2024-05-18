@@ -6,7 +6,7 @@ import joblib
 import pandas as pd
 
 # Load the model
-model = joblib.load('src/forest_model.plk')
+model = joblib.load('forest_model.plk')
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
