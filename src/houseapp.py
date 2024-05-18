@@ -10,6 +10,7 @@ model = joblib.load('src/forest_model.plk')
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # Define dropdown options
 max_bedrooms = 6
