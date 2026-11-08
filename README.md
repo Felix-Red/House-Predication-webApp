@@ -10,4 +10,4 @@ The price prediction model was developed using Random Forest, a popular machine 
 
 Additionally, the model is integrated into a user-friendly web dashboard. This dashboard facilitates the prediction of house prices, providing an intuitive interface for users.
 [house price prediction app](https://project2group-k.onrender.com/)
-![dash app](https://github.com/Felix-Red/Project2Group-K/blob/main/Screenshot%202024-05-18%20143202.png)
+![dash app](https://github.com/Felix-Red/House-Predication-webApp/blob/main/Pasted%202026-11-08%20at%201.40.49%20PM.png)
